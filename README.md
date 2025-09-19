@@ -1,4 +1,4 @@
-# Hi there,
+# Hi there, Welcome to my profile
 
 I'm a Computer Engineering student and I like building clean, efficient, and user-friendly web applications. I'm currently doing front-end development with React and aim expanding my skills into the full stack with Node.js.
 
