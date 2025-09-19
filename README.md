@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mikko Melgar 👋
 
-<!--
-**Meiko-mlgr/Meiko-mlgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student from the Philippines with a passion for building clean, efficient, and user-friendly web applications. I specialize in front-end development with React and am expanding my skills into the full stack with Node.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+
+* **Frontend:** React, JavaScript, HTML5, CSS3
+* **Styling:** CSS Modules
+* **Build Tools:** Vite
+* **Libraries:** Chart.js, Matter.js
+* **Backend:** Node.js (Learning), Express (Learning)
+* **Tools & Platforms:** Git, GitHub, npm
+
+---
+
+### 🚀 My Portfolio Projects
+
+Here are some of the projects I've built to showcase my skills.
+
+| Project                                                                          | Description                                                                                                                                                                                          | Live Demo                                                  |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 🎮 **Sus Arcade**<br>(_React, Matter.js, Vite_)                                   | A mini-game arcade inspired by "Among Us," featuring component-based architecture and games like Minesweeper and a Pachinko machine powered by the Matter.js 2D physics engine.                        | [**View Live**](https://sussy-arcade.netlify.app)          |
+| 📊 **PH COVID-19 Tracker**<br>(_React, Chart.js, API Integration_)                 | A data-driven dashboard that fetches and visualizes COVID-19 statistics for the Philippines from multiple external APIs. Features interactive line and pie charts built with Chart.js.                     | [**View Live**](https://phcovid19-tracker.netlify.app)     |
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** [linkedin.com/in/mikko-melgar-447069233](https://www.linkedin.com/in/mikko-melgar-447069233)
+* **Email:** [springleaked@gmail.com](mailto:springleaked@gmail.com)
