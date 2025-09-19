@@ -1,14 +1,12 @@
-# Hi there, I'm Mikko Melgar 👋
+# Hi there,
 
-I'm a Computer Engineering student from the Philippines with a passion for building clean, efficient, and user-friendly web applications. I specialize in front-end development with React and am expanding my skills into the full stack with Node.js.
+I'm a Computer Engineering student and I like building clean, efficient, and user-friendly web applications. I'm currently doing front-end development with React and aim expanding my skills into the full stack with Node.js.
 
 ---
 
 ### 💻 My Tech Stack
 
 * **Frontend:** React, JavaScript, HTML5, CSS3
-* **Styling:** CSS Modules
-* **Build Tools:** Vite
 * **Libraries:** Chart.js, Matter.js
 * **Backend:** Node.js (Learning), Express (Learning)
 * **Tools & Platforms:** Git, GitHub, npm
