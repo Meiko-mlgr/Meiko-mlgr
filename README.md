@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I'm a Computer Engineering student and I like building web applications, and different funny things. I'm currently doing front-end development with React and aim expanding my skills into the full stack with Node.js.
+I'm a Computer Engineering student and I like building web applications, and different funny things. I'm currently doing front-end development with React and I aim to expand my skills into the full stack with Node.js.
 
 ---
 
