@@ -26,5 +26,12 @@ Here are some of the projects I've built to showcase my skills.
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [linkedin.com/in/mikko-melgar-447069233](https://www.linkedin.com/in/mikko-melgar-447069233)
-* **Email:** [springleaked@gmail.com](mailto:springleaked@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mikko-melgar-447069233" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  
+  <a href="mailto:springleaked@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+</p>
