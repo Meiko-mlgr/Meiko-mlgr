@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I'm a Computer Engineering student and I like building web applications, and different funny things. I'm a full-stack developer with a passion for creating interactive and engaging web experiences.
+I'm a **full-stack developer** specializing in building interactive and engaging web applications. I enjoy bringing ideas to life through code and tackling interesting challenges.
 
 ---
 
@@ -16,16 +16,16 @@ I'm a Computer Engineering student and I like building web applications, and dif
 
 ### My Portfolio Projects
 
-Here are some of the projects I've built to showcase my skills.
+Here are some projects I've built:
 
-| Project                                                                 | Description                                                                                                                                                                                          | Live Demo                                                  |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **Tara, Labas Tayo?**<br>(_Next.js, Three.js, Supabase_)                 | A full-stack, 3D social space where users can hang out, chat in real-time, and interact in a shared environment. Features real-time multiplayer, character customization, and a persistent backend.       | [**View Live**](https://tara-labas.netlify.app)            |
-| **Sus Arcade**<br>(_React, Matter.js, Vite_)                             | A mini-game arcade inspired by "Among Us," featuring component-based architecture and games like Minesweeper and a Pachinko machine powered by the Matter.js 2D physics engine.                        | [**View Live**](https://sussy-arcade.netlify.app)          |
-| **PH COVID-19 Tracker**<br>(_React, Chart.js, API Integration_)           | A data-driven dashboard that fetches and visualizes COVID-19 statistics for the Philippines from multiple external APIs. Features interactive line and pie charts built with Chart.js.                     | [**View Live**](https://phcovid19-tracker.netlify.app)     |
+| Project                                                                 | Description                                                                                                                                                                                          | Live Demo                                                  | GitHub Repo                                                |
+| :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------------------------------------------------------- |
+| **Tara, Labas Tayo?**<br>(_Next.js, Three.js, Supabase_)                 | A full-stack, 3D social space where users can hang out, chat in real-time, and interact in a shared environment. Features real-time multiplayer, character customization, and a persistent backend.       | [**View Live**](https://tara-labas.netlify.app)            | [**View Code**](https://github.com/Meiko-mlgr/Tara)        |
+| **LinkHub**<br>(_Next.js, TypeScript, Supabase, Tailwind CSS_)          | A minimalist 'link-in-bio' SaaS app. Features user auth, profile customization (name/avatar), link management (add/edit/delete), and unique public profile pages (`/username`).                            | [**View Live**](https://link-hubo.netlify.app)             | [**View Code**](https://github.com/Meiko-mlgr/linkhub)     |
+| **Sus Arcade**<br>(_React, Matter.js, Vite_)                             | A mini-game arcade inspired by "Among Us," featuring component-based architecture and games like Minesweeper and a Pachinko machine powered by the Matter.js 2D physics engine.                        | [**View Live**](https://sussy-arcade.netlify.app)          | [**View Code**](https://github.com/Meiko-mlgr/Sus-Arcade)  |
+| **PH COVID-19 Tracker**<br>(_React, Chart.js, API Integration_)           | A data-driven dashboard that fetches and visualizes COVID-19 statistics for the Philippines from multiple external APIs. Features interactive line and pie charts built with Chart.js.                     | [**View Live**](https://phcovid19-tracker.netlify.app)     | [**View Code**](https://github.com/Meiko-mlgr/PHCOVID19) |
 
 ---
-
 
 ### Contact Information
 
